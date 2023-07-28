@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1 {
+text-transform: uppercase;
+font-size: 3rem ;
+}
+
+.post{
+width: 50%;
+margin-left: 25%;
+margin-top: 60px; 
+text-align: center;
+font-family: 'Libre Baskerville', serif;
+color:white;
+}
+
+.image{
+border: 5px solid white;
+width: 100%;
+}
+
+
+
+
